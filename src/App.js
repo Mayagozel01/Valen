@@ -11,7 +11,7 @@ function App() {
  
   
   },[])
-  
+  console.log("hello")
   const rows =[]
   if (rows.length===0){
   products.map((product)=>
